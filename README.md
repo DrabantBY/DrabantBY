@@ -24,7 +24,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
 </a>
@@ -40,8 +39,9 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40"/>
 </a>
-
-
+<a href="https://mui.com" target="_blank" rel="noreferrer">
+<img src="https://v4.mui.com/static/logo_raw.svg" alt="mui" height="40"/>
+</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="bootstrap" height="40"/>
 </a>
@@ -51,18 +51,13 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/>
 </a>
-
-
-<a href="https://jestjs.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-</a> 
-
-
-
-
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a> 
-  
-
-  </p>
+<a href="https://vitejs.dev" target="_blank" rel="noreferrer">
+<img src="https://vitejs.dev/logo.svg" alt="vite" height="40"/>
+</a>
+<a href="https://vitest.dev" target="_blank" rel="noreferrer">
+<img src="https://vitest.dev/logo.svg" alt="vitest" height="40"/>
+</a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+<img src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" alt="webpack" height="40"/>
+</a>
+</p>
