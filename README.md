@@ -71,13 +71,13 @@
 <img src="https://swiperjs.com/images/favicon.svg" alt="swiper" height="30"/>
 </a>
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
-<img src="https://vitejs.dev/logo.svg" alt="vite" height="40"/>
+<img src="https://vitejs.dev/logo.svg" alt="vite" height="30"/>
 </a>
 <a href="https://docs.cypress.io" target="_blank" rel="noreferrer">
 <img src="https://docs.cypress.io/favicon.svg" alt="cypress" height="30"/>
 </a>
 <a href="https://vitest.dev" target="_blank" rel="noreferrer">
-<img src="https://vitest.dev/logo.svg" alt="vitest" height="30"/>
+<img src="https://vitest.dev/logo.svg" alt="vitest" height="36"/>
 </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer">
 <img src="https://jestjs.io/img/jest.png" alt="jest" height="30"/>
