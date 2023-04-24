@@ -15,10 +15,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eugene-bas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugene-bas" height="30" width="40" /></a>
-<a href="https://medium.com/@drabant2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@drabant2022" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/drabantby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drabantby" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/PcAXRXPT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PcAXRXPT" height="30" width="40" /></a>
+<a href="https://medium.com/@drabant2022" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30"/>
+</a>
+<a href="https://www.leetcode.com/drabantby" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30"/>
+</a>
+<a href="https://www.codewars.com/users/Drabant" target="blank">
+<img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars" height="30"/>
+</a>
+<a href="https://discord.gg/https://discord.gg/PcAXRXPT" target="blank">
+<img src="https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico" alt="discord" height="30"/>
+</a>
+<a href="https://linkedin.com/in/eugene-bas" target="blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="30"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,13 +62,27 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/>
 </a>
+<a href="https://swiperjs.com" target="_blank" rel="noreferrer">
+<img src="https://swiperjs.com/images/favicon.svg" alt="swiper" height="40"/>
+</a>
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
 <img src="https://vitejs.dev/logo.svg" alt="vite" height="40"/>
+</a>
+<a href="https://docs.cypress.io" target="_blank" rel="noreferrer">
+<img src="https://docs.cypress.io/favicon.svg" alt="cypress" height="40"/>
 </a>
 <a href="https://vitest.dev" target="_blank" rel="noreferrer">
 <img src="https://vitest.dev/logo.svg" alt="vitest" height="40"/>
 </a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-<img src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" alt="webpack" height="40"/>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer">
+<img src="https://jestjs.io/img/jest.png" alt="jest" height="40"/>
+</a>  
+  <a href="https://testing-library.com" target="_blank" rel="noreferrer">
+<img src="https://testing-library.com/img/octopus-64x64.png" alt="testing library" height="40"/>
 </a>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+<img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="webpack" height="40"/>
+</a>
+  
+  
 </p>
