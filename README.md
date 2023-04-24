@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Yauheni(Eugene) Basalai</h1>
 <h3 align="center">A passionate frontend developer from Brest, Belarus</h3>
 
+<br>
+
 <img align="right" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding" width="400"/>
 
 - 🔭 I’m currently working on [museum](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum-stage1.md)
@@ -77,7 +79,7 @@
 <img src="https://docs.cypress.io/favicon.svg" alt="cypress" height="30"/>
 </a>
 <a href="https://vitest.dev" target="_blank" rel="noreferrer">
-<img src="https://vitest.dev/logo.svg" alt="vitest" height="36"/>
+<img src="https://vitest.dev/logo.svg" alt="vitest" height="32"/>
 </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer">
 <img src="https://jestjs.io/img/jest.png" alt="jest" height="30"/>
