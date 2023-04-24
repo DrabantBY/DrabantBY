@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **JS, TS, React, Redux, Zustand**
 
-- 📫 How to reach me **drabant2022@gmail.com**
-
 - ⚡ Fun fact **I was a forensic scientist**
 
 <h3 align="left">Connect with me:</h3>
