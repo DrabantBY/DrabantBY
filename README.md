@@ -1,5 +1,10 @@
+<img src="https://www.auxanoglobalservices.com/agsresources/wp-content/uploads/2023/03/ReactJS-for-Enterprise-App-Development-Banner.webp" alt="banner"/>
 <h1 align="center">Hi 👋, I'm Yauheni(Eugene) Basalai</h1>
 <h3 align="center">A passionate frontend developer from Brest, Belarus</h3>
+
+<img align="right" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding" width="500"/>
+
+
 
 - 🔭 I’m currently working on [museum](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum-stage1.md)
 
