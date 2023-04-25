@@ -1,5 +1,3 @@
-<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/01/1505804127react-universal-1024x298.jpg" alt="banner"/>
-
 <h1 align="center">Hi 👋, I'm Yauheni(Eugene) Basalai, Junior Front-End Developer</h1>
 
 <img align="right" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding" width="400"/>
