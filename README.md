@@ -4,15 +4,20 @@
 
 <img align="right" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding" width="400"/>
 
-- 🔭 I’m currently working on [museum](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum-stage1.md)
+- 🔭 I’m currently working
+[StartupSummer2023](https://startup-summer-2023-dev-task.super.site/)
 
-- 🌱 I’m currently learning **The Rolling Scopes School**
+- 🌱 I’m currently learning 
+**The Rolling Scopes School**
 
-- 🤝 I’m looking for help with [GraphiQL](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/graphiql.md)
+- 🤝 I’m looking for help
+[GraphiQL](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/graphiql.md)
 
-- 💬 Ask me about **JS, TS, React, Redux, Zustand**
+- 💬 Ask me about
+**JS, TS, React, Redux, Zustand**
 
-- ⚡ Fun fact **I was a forensic scientist**
+- ⚡ Fun fact 
+**I was a forensic scientist**
 
 <h3 align="left">Connect with me:</h3>
 
