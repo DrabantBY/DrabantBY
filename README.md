@@ -1,4 +1,4 @@
-<img src="https://www.auxanoglobalservices.com/agsresources/wp-content/uploads/2023/03/ReactJS-for-Enterprise-App-Development-Banner.webp" alt="banner"/>
+<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/01/1505804127react-universal-1024x298.jpg" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Yauheni(Eugene) Basalai, Junior Front-End Developer</h1>
 
