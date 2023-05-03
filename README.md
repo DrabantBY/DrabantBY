@@ -58,6 +58,9 @@
 <a href="https://mui.com" target="_blank" rel="noreferrer">
 <img src="https://v4.mui.com/static/logo_raw.svg" alt="mui" height="30"/>
 </a>
+  <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
+<img src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" alt="mantineui" height="30"/>
+</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="bootstrap" height="30"/>
 </a>
