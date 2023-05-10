@@ -17,28 +17,6 @@
 - ⚡ Fun fact 
 **I was a forensic scientist**
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://medium.com/@drabant2022" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30"/>
-</a>
-<a href="https://www.leetcode.com/drabantby" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30"/>
-</a>
-<a href="https://www.codewars.com/users/Drabant" target="blank">
-<img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars" height="30"/>
-</a>
-<a href="https://discord.gg/https://discord.gg/PcAXRXPT" target="blank">
-<img src="https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico" alt="discord" height="30"/>
-</a>
-<a href="https://linkedin.com/in/eugene-bas" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="30"/>
-</a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
