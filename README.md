@@ -36,7 +36,7 @@
 <a href="https://mui.com" target="_blank" rel="noreferrer">
 <img src="https://v4.mui.com/static/logo_raw.svg" alt="mui" height="30"/>
 </a>
-  <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
+<a href="https://mantine.dev/" target="_blank" rel="noreferrer">
 <img src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" alt="mantineui" height="30"/>
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -50,6 +50,10 @@
 </a>
 <a href="https://swiperjs.com" target="_blank" rel="noreferrer">
 <img src="https://swiperjs.com/images/favicon.svg" alt="swiper" height="30"/>
+</a>
+<br>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+<img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="webpack" height="30"/>
 </a>
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
 <img src="https://vitejs.dev/logo.svg" alt="vite" height="30"/>
@@ -65,8 +69,5 @@
 </a>  
 <a href="https://testing-library.com" target="_blank" rel="noreferrer">
 <img src="https://testing-library.com/img/octopus-64x64.png" alt="testing library" height="30"/>
-</a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="webpack" height="30"/>
 </a>
 </p>
