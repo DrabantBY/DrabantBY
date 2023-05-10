@@ -33,12 +33,18 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"/>
 </a>
+<a href="https://swiperjs.com" target="_blank" rel="noreferrer">
+<img src="https://swiperjs.com/images/favicon.svg" alt="swiper" height="30"/>
+</a>
 <a href="https://mui.com" target="_blank" rel="noreferrer">
 <img src="https://v4.mui.com/static/logo_raw.svg" alt="mui" height="30"/>
 </a>
 <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
 <img src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" alt="mantineui" height="30"/>
 </a>
+</p>
+  
+<p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="bootstrap" height="30"/>
 </a>
@@ -48,10 +54,6 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/>
 </a>
-<a href="https://swiperjs.com" target="_blank" rel="noreferrer">
-<img src="https://swiperjs.com/images/favicon.svg" alt="swiper" height="30"/>
-</a>
-<br>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
 <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" alt="webpack" height="30"/>
 </a>
