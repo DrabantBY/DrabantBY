@@ -2,14 +2,11 @@
 
 <img align="right" src="https://global.discourse-cdn.com/freecodecamp/original/3X/f/e/fe2907f425eab48e5b9e9a64390f1db203283668.gif" alt="coding" width="400"/>
 
-- 🔭 I’m currently working
-[StartupSummer2023](https://startup-summer-2023-dev-task.super.site/)
+- 🔭 I’m currently lookin for a job
 
-- 🌱 I’m currently learning 
-**The Rolling Scopes School**
+- 🌱 I’m currently learning next.js
 
-- 🤝 I’m looking for help
-[GraphiQL](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/graphiql.md)
+- 🤝 I’m looking for job
 
 - 💬 Ask me about
 **JS, TS, React, Redux, Zustand**
