@@ -2,11 +2,11 @@
 
 <img align="right" src="https://global.discourse-cdn.com/freecodecamp/original/3X/f/e/fe2907f425eab48e5b9e9a64390f1db203283668.gif" alt="coding" width="400"/>
 
-- 🔭 I’m currently lookin for a job
+- 🔭 I’m currently looking for a job
 
 - 🌱 I’m currently learning next.js
 
-- 🤝 I’m looking for job
+- 🤝 I need help...
 
 - 💬 Ask me about
 **JS, TS, React, Redux, Zustand**
