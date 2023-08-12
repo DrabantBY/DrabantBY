@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eugene, Junior Front-End Developer</h1>
+<h1 align="center">Hi 👋, I'm Eugene, Front-End Developer</h1>
 
 <img align="right" src="https://global.discourse-cdn.com/freecodecamp/original/3X/f/e/fe2907f425eab48e5b9e9a64390f1db203283668.gif" alt="coding" width="400"/>
 
