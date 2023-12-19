@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning next.js
+- 🌱 I’m currently learning Angular
 
 - 🤝 I need help...
 
