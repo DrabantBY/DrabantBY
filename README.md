@@ -1,7 +1,7 @@
-# Hi 👋, my name is Eugene!
-### I'am Front-End Developer
+# 👋Hi, my name is Eugene!
+> ### *Front-End Developer* 🎉
 ### 🔍 I’m currently looking for a job
-### 📚 I'm currently studying Angular
+### 🎓 I'm currently studying Angular
 ### 🛠️ My tech stack includes: 
 - **[React.js](https://react.dev/)**, **[Next.js](https://nextjs.org/)**, **[Redux Toolkit](https://redux-toolkit.js.org/)**, **[React Router](https://reactrouter.com/en/main)**;
 - **[TanStack](https://tanstack.com/)**, **[SWR](https://swr.vercel.app/)**, **[Formik](https://formik.org/)**, **[React Hook Form](https://react-hook-form.com/)**, **[Zustand](https://zustand-demo.pmnd.rs/)**;
